@@ -45,12 +45,24 @@ nav li{
     background: #FD6E0A;
     border-radius: 5px;
 }
+.btn-fa{
+    height: 64px;
+    padding:18px 35px;
+    font-weight: 700;
+    font-size: 20px;
+    border-color: #FD6E0A;    
+    border-radius: 5px;
+}
 
 /* Banner styles */
 .banner{
     display: flex;
     margin: 0 200px;
 
+}
+
+/* .banner button{
+    display: inline; */
 }
 .banner-sub-tile{
     font-weight: 600;
